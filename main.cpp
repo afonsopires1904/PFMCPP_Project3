@@ -83,51 +83,51 @@ Main Object: Car Interior
         Name 4 nouns you'll find on the [Sub Object]
             1) paddle shifters
             2) 'cruise control' controls
-            3) 
-            4) 
+            3) horn
+            4) other buttons ex: media volume control
         Name 2 actions that the [Sub Object] can do:
             1) adjust cruise control settings.
-            2)
+            2) adjust volume
         
     Sub Object: Instrument Cluster
         Name 4 nouns you'll find on the [Sub Object]
-            1)
-            2)
-            3)
-            4)
+            1) Km/h
+            2) RPM 
+            3) Fuel
+            4) Time or Temperature
         Name 3 actions that the [Sub Object] can do:
-            1)
-            2)
-            3)
+            1) Show warnings for fuel 
+            2) Show the speed in which your going
+            3) Show what gear you're in 
     
     Sub Object: Environment Controls
         Name 3 nouns you'll find on the [Sub Object]
-            1)
-            2)
-            3)
+            1) Temperature
+            2) Air flow
+            3) On/Off button
         Name 3 actions that the [Sub Object] can do:
-            1)
-            2)
-            3)
+            1) Send cool air
+            2) Send hot air
+            3) Heat the seats
 
     Sub Object: Infotainment System
         Name 3 nouns you'll find on the [Sub Object]
-            1)
-            2)
-            3)
+            1) Radio
+            2) Navigation
+            3) Settings
         Name 3 actions that the [Sub Object] can do:
-            1)
-            2)
-            3)
+            1) Change the radio channel
+            2) Set a destination
+            3) Change the EQ of the media player
 
     Sub Object: Seat 
         Name 3 nouns you'll find on the [Sub Object]
-            1)
-            2)
-            3)
+            1) Seat belts
+            2) Seat adjusters
+            3) Head rest
         Name 2 actions that the [Sub Object] can do:
-            1)
-            2)
+            1) Heat your butt
+            2) Give you confort or disconfort
 */
 
 /*
