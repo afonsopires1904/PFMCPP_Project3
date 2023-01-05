@@ -196,21 +196,21 @@ Part 1b - Step 2: Assignment
         c) pick properties that can eventually be represented with 
         'int float double bool char std::string'.
 
-Thing 1)
+Thing 1) Computer
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) Number of processors
+    2) Number of keys
+    3) Ammount of time spent per day
+    4) Temperature 
+    5) Number of applications
 3 things it can do:
-    1)
-    2)
-    3)
+    1) Write code
+    2) Play video games
+    3) Make music
 
-Thing 2)
+Thing 2) 
 5 properties:
-    1)
+    1) 
     2)
     3)
     4)
